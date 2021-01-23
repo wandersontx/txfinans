@@ -1,0 +1,9 @@
+//Espaço para customização do bootstrap
+
+//criando uma nova cor
+$theme-colors: (
+    "roxo": #9003fc,
+  );
+
+//Import das configurações padrões do bootstrap
+@import '~bootstrap/scss/bootstrap';
